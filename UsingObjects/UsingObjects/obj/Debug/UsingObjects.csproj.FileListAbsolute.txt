@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript Fundamentials\Using Objects\UsingObjects\UsingObjects\bin\UsingObjects.dll.config
+C:\TelerikAcademy\JavaScript Fundamentials\Using Objects\UsingObjects\UsingObjects\bin\UsingObjects.dll
+C:\TelerikAcademy\JavaScript Fundamentials\Using Objects\UsingObjects\UsingObjects\bin\UsingObjects.pdb
+C:\TelerikAcademy\JavaScript Fundamentials\Using Objects\UsingObjects\UsingObjects\obj\Debug\UsingObjects.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript Fundamentials\Using Objects\UsingObjects\UsingObjects\obj\Debug\UsingObjects.dll
+C:\TelerikAcademy\JavaScript Fundamentials\Using Objects\UsingObjects\UsingObjects\obj\Debug\UsingObjects.pdb

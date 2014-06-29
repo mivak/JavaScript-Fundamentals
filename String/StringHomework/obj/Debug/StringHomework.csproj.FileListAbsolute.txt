@@ -1,0 +1,12 @@
+C:\TelerikAcademy\JavaScript Fundamentials\Strings\StringHomework\StringHomework\bin\StringHomework.dll.config
+C:\TelerikAcademy\JavaScript Fundamentials\Strings\StringHomework\StringHomework\bin\StringHomework.dll
+C:\TelerikAcademy\JavaScript Fundamentials\Strings\StringHomework\StringHomework\bin\StringHomework.pdb
+C:\TelerikAcademy\JavaScript Fundamentials\Strings\StringHomework\StringHomework\obj\Debug\StringHomework.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript Fundamentials\Strings\StringHomework\StringHomework\obj\Debug\StringHomework.dll
+C:\TelerikAcademy\JavaScript Fundamentials\Strings\StringHomework\StringHomework\obj\Debug\StringHomework.pdb
+C:\GitHub\JavaScript Fundamentals\String\StringHomework\bin\StringHomework.dll.config
+C:\GitHub\JavaScript Fundamentals\String\StringHomework\bin\StringHomework.dll
+C:\GitHub\JavaScript Fundamentals\String\StringHomework\bin\StringHomework.pdb
+C:\GitHub\JavaScript Fundamentals\String\StringHomework\obj\Debug\StringHomework.csprojResolveAssemblyReference.cache
+C:\GitHub\JavaScript Fundamentals\String\StringHomework\obj\Debug\StringHomework.dll
+C:\GitHub\JavaScript Fundamentals\String\StringHomework\obj\Debug\StringHomework.pdb

@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript Fundamentials\Conditional Statements\ConditionalStatements\ConditionalStatements\bin\ConditionalStatements.dll.config
+C:\TelerikAcademy\JavaScript Fundamentials\Conditional Statements\ConditionalStatements\ConditionalStatements\bin\ConditionalStatements.dll
+C:\TelerikAcademy\JavaScript Fundamentials\Conditional Statements\ConditionalStatements\ConditionalStatements\bin\ConditionalStatements.pdb
+C:\TelerikAcademy\JavaScript Fundamentials\Conditional Statements\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript Fundamentials\Conditional Statements\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.dll
+C:\TelerikAcademy\JavaScript Fundamentials\Conditional Statements\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.pdb

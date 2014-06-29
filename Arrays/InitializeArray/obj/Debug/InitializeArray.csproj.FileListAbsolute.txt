@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript Fundamentials\Arrays\Arrays\InitializeArray\bin\InitializeArray.dll.config
+C:\TelerikAcademy\JavaScript Fundamentials\Arrays\Arrays\InitializeArray\bin\InitializeArray.dll
+C:\TelerikAcademy\JavaScript Fundamentials\Arrays\Arrays\InitializeArray\bin\InitializeArray.pdb
+C:\TelerikAcademy\JavaScript Fundamentials\Arrays\Arrays\InitializeArray\obj\Debug\InitializeArray.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript Fundamentials\Arrays\Arrays\InitializeArray\obj\Debug\InitializeArray.dll
+C:\TelerikAcademy\JavaScript Fundamentials\Arrays\Arrays\InitializeArray\obj\Debug\InitializeArray.pdb

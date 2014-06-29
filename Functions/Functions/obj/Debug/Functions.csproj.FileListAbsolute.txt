@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript Fundamentials\Functions\Functions\Functions\bin\Functions.dll.config
+C:\TelerikAcademy\JavaScript Fundamentials\Functions\Functions\Functions\bin\Functions.dll
+C:\TelerikAcademy\JavaScript Fundamentials\Functions\Functions\Functions\bin\Functions.pdb
+C:\TelerikAcademy\JavaScript Fundamentials\Functions\Functions\Functions\obj\Debug\Functions.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript Fundamentials\Functions\Functions\Functions\obj\Debug\Functions.dll
+C:\TelerikAcademy\JavaScript Fundamentials\Functions\Functions\Functions\obj\Debug\Functions.pdb
